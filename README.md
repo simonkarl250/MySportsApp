@@ -3,7 +3,31 @@
 ## Overview
 
 The Football Club Search App allows users to search for football clubs online using a comprehensive library database. This app was created as part of a challenge project during an interview, where I achieved a 98% skill test score. The app is built using Kotlin and Android Studio, and provides a seamless user experience for football enthusiasts to find information about their favorite clubs.
+## Description of the task
 
+You are required to implement an Android application using Kotlin and Jetpack Compose
+described by the speci;ications below.
+You are not allowed to use third-party libraries. The only libraries that you can use are
+the standard Android API libraries found in the following URL (with the exception of Views
+that you should NOT use):
+h"ps://developer.android.com/reference/
+It is important to follow exactly the speciGications and your implementation must
+conform to these:
+The application developed will be helping users to obtain information about football clubs.
+The application will be using the h"ps://www.thesportsdb.com/api.php/ Web service and the
+Room Library to save information about clubs.
+1. When the application starts, it presents the user with 3 buttons labelled Add Leagues to DB,
+   Search for Clubs By League and Search for Clubs. (2 marks)
+   •
+   Clicking on the Add Leagues to DB button saves all the details of a few football leagues
+   (from different countries) in an SQLite database which is local to the mobile device
+   using the Room library. The speci;ic information of the leagues which will be saved
+   is shown in the following link and the information saved could simply be hardcoded
+   in the application.
+   h"ps://ddracopo.github.io/DOCUM/courses/5cosc023w/football_leagues.txt
+   An appropriate database with appropriate tables should be created and populated by your
+   application, based on the above data.
+2. 
 ## Features
 
 - **Search Football Clubs:** Users can search for football clubs using the app's intuitive search functionality.
@@ -98,4 +122,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or feedback, please reach out to:
 
 - Your Name: your.email@example.com
-- Project Link: [https://github.com/yourusername/football-club-search-app](https://github.com/yourusername/football-club-search-app)
+- Project Link: [https://github.com/simonkar250/football-club-search-app](https://github.com/simonkar250/football-club-search-app)
