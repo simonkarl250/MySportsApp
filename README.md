@@ -68,7 +68,7 @@ Room Library to save information about clubs.
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/football-club-search-app.git
+    git clone https://github.com/simonkarl250/MySportsApp.git
     cd football-club-search-app
     ```
 
@@ -122,4 +122,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or feedback, please reach out to:
 
 - Your Name: your.email@example.com
-- Project Link: [https://github.com/simonkar250/football-club-search-app](https://github.com/simonkar250/football-club-search-app)
+- Project Link: [https://github.com/simonkarl250/MySportsApp.git](https://github.com/simonkarl250/MySportsApp.git)
